@@ -1,0 +1,6 @@
+
+# Don't track the p5.js libraries
+**/libraries/*
+
+# keep p5.js libraries only on root directory
+!/libraries/*
