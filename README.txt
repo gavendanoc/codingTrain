@@ -18,6 +18,7 @@ That's it!
 
 I used Atom IDE because it has a nice pluggin that allows viewing changes on the browser without reloading the page. It's really usefull and saves a lot of time. 
 
+![](readmeImages/atom-live-server.png)
 
 
 
