@@ -1,7 +1,7 @@
 
 Hi :smirk:
 
-This is a collection of proyects that I live-copied from The Coding Train youtube channel. Why? I wanted to learn p5js on my spare time, but at the end of the day college got me so tired and I didn't have the energy to think. My solution was to just do the challenges exactly as Daniel Shiffman did them. It was a nice and fun way to get me to sleep.
+This is a collection of proyects that I live-copied from The Coding Train youtube channel. Why? I wanted to learn p5js on my spare time, but after a full day of work I was so tired that I didn't have the energy to think. My solution was to just do the challenges exactly as Daniel Shiffman did them. It was a nice and fun way to get me to sleep.
 
 To see the full list of challenges [check the youtube channel](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
