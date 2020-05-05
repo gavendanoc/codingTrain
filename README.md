@@ -7,7 +7,7 @@ To see the full list of challenges [check the youtube channel](https://www.youtu
 
 ## How to run?
 
-Each folder is a different, isolated proyect. To run a proyect: 
+Each folder is a *different and isolated* proyect. To run a proyect: 
 
 1. Copy the folder `libraries` inside the folder. Ei. `clock/libraries`
 2. Open the `index.html` inside a folder on a browser.
@@ -23,6 +23,9 @@ All proyects use JavaScript on the browser with the [p5 libray](https://p5js.org
 I also used Atom IDE because it has a nice pluggin that allows viewing changes on the browser without reloading the page. Its name is *atom-live-server*. It's really usefull and saves a lot of time. 
 
 ![](/readmeImages/atom-live-server.png)
+
+After installing the plugging. Go to the `index.html` and press Ctrl+Alt+L. 
+There should be a running p5js app on `http://localhost:3000/`.
 
 
 
